@@ -1,0 +1,199 @@
+Report for Institution Code CHAS, Resource chas_verts
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 465
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 2
+	Country: United States ; Times: 42
+	Country: Austria ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-13 ; Times: 5
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-16 ; Times: 2
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-07 ; Times: 3
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 8
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-01 ; Times: 2
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 1
+	Date: 2015-09-20 ; Times: 13
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus seminolus" ; Times: 3
+	Query: "Oryzomys texensis" ; Times: 3
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "blue footed" ; Times: 1
+	Query: "institutioncode:CHAS" ; Times: 1
+	Query: "county:&#34;Rock Island&#34; stateprovince:&#34;Illinois&#34; class:mammalia year &lt;= 2015" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "geranium" ; Times: 2
+	Query: "genus:podomys county:&#34;polk&#34;" ; Times: 1
+	Query: "stateprovince:&#34;florida &#34; county: &#34;liberty&#34; specificepithet: polionotus genus:peromyscus" ; Times: 1
+	Query: "jwp jenks" ; Times: 5
+	Query: "passenger pigeon" ; Times: 1
+	Query: "lutra canadensis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "white footed mouse" ; Times: 2
+	Query: "Mustela rixosa country:&#34;United States&#34;" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 3
+	Query: "oology" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Myotis keenii" ; Times: 3
+	Query: "star nosed mole" ; Times: 1
+	Query: "&#34;north american porcupine&#34;" ; Times: 1
+	Query: "black rail" ; Times: 3
+	Query: "Corynorhinus rafinesquii" ; Times: 3
+	Query: "HERONS" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 138 (out of 1045 download events in this period)
+Total number of records downloaded: 6400
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 6
+	Country: United States ; Times: 112
+	Country: Sweden ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 27
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 5
+	Date: 2015-09-15 ; Times: 15
+	Date: 2015-09-16 ; Times: 31
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-30 ; Times: 4
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-29 ; Times: 9
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-20 ; Times: 2
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Sorex palustris" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Perognathus longimembris pacificus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "county:&#34;teton&#34; stateprovince:&#34;Wyoming&#34; genus:zapus" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "geranium" ; Times: 1
+	Query: "gloyd" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Alopex lagopus" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Sporophila" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; specificepithet:breviceps genus:geomys" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "Myodes gapperi" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Neovison vison" ; Times: 2
+	Query: "year:1859" ; Times: 1
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "genus:Spizella" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "peromyscus maniculatus los angeles" ; Times: 1
+
+
+End of report.
