@@ -1,0 +1,145 @@
+Report for Institution Code CHAS, Resource chas_verts
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 317
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Romania ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 35
+	Country: Guatemala ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-04 ; Times: 8
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-13 ; Times: 6
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-18 ; Times: 4
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 4
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "nest collectioncode:oology institutioncode:CHAS" ; Times: 1
+	Query: "falco minnesota egg" ; Times: 1
+	Query: "procyon lotor illinois" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "sitta pusilla caniceps" ; Times: 1
+	Query: "casual" ; Times: 2
+	Query: "procyon lotor stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Perognathus longimembris pacificus" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; (menominee)" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Synthliboramphus hypoleucus California" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "Tayassu peccary United States" ; Times: 2
+	Query: "Odocoileus virginianus and georgia" ; Times: 1
+	Query: "oology institutioncode:CHAS" ; Times: 1
+	Query: "piping plover dakota" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Illinois&#34; (skin)" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "rallus limicola eggs" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Georgia&#34; (skin)" ; Times: 1
+	Query: "buteo albicaudatus" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "falco minnesota" ; Times: 1
+	Query: "empidonax trailli" ; Times: 1
+	Query: "procyon lotor county:&#34;Cook&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "piping plover" ; Times: 5
+	Query: "Microtus chrotorrhinus Tennessee" ; Times: 1
+	Query: "great auk" ; Times: 3
+	Query: "BTG" ; Times: 1
+	Query: "white-tailed hawk" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 823 download events in this period)
+Total number of records downloaded: 1042
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 40
+	Country: Unknown ; Times: 6
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 5
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 3
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "canis lupus baileyi" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "mouse texas" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "american tree sparrow" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "puma concolor" ; Times: 2
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "yellow rail" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Canis lupus baileyi" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+	Query: "kangaroo" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+
+
+End of report.
